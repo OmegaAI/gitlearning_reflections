@@ -2,9 +2,18 @@ What happens when you initialize a repository?
 	You create a .git file (hidden) that creates memory space to hold commits to memory
 
 Why do you need to do it?
+	To tell git that you are making a folder a repository for version control.
+
+
 
 How is the staging area different from the working directory and the repository?
+
+	The staging area is temporary and allows for thoughts and mistakes rather than being permanent like the WD.
+
 What value do you think it offers?
+	Temporary in nature.
+
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
